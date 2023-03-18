@@ -1,0 +1,24 @@
+8000
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Courier New;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\li195\cf1\f0\fs20 MVI C A8h
+\par MVI A 0Fh
+\par ANA C
+\par OUT 00h
+\par HLT\cf0 
+\par }
+<End Codes>
+20
+<End UserData>
+20
+1| 8000| 0E
+2| 8001| A8
+3| 8002| 3E
+4| 8003| 0F
+5| 8004| A1
+6| 8005| D3
+7| 8006| 00
+8| 8007| 76
+<End HexData>
+
+<End Comment>
